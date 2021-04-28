@@ -1,0 +1,15 @@
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/MyFunction.deps.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/MyFunction.runtimeconfig.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/MyFunction.runtimeconfig.dev.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/Amazon.Lambda.Core.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.csprojAssemblyReference.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.AssemblyInfoInputs.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.AssemblyInfo.cs
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.csproj.CoreCompileInputs.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.csproj.CopyComplete
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Release/netcoreapp3.1/linux-x64/MyFunction.genruntimeconfig.cache

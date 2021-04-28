@@ -1,0 +1,15 @@
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/MyFunction.deps.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/MyFunction.runtimeconfig.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/MyFunction.runtimeconfig.dev.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Core.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.csprojAssemblyReference.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.AssemblyInfoInputs.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.AssemblyInfo.cs
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.csproj.CoreCompileInputs.cache
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.csproj.CopyComplete
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/obj/Debug/netcoreapp3.1/MyFunction.genruntimeconfig.cache

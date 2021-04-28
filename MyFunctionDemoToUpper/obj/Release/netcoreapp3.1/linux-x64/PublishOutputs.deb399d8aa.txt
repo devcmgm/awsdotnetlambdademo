@@ -1,0 +1,6 @@
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/MyFunction.deps.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/MyFunction.runtimeconfig.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Core.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Serialization.SystemTextJson.dll

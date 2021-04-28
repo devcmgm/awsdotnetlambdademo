@@ -1,0 +1,6 @@
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/MyFunction.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/MyFunction.deps.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/MyFunction.runtimeconfig.json
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/MyFunction.pdb
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/Amazon.Lambda.Core.dll
+/Users/zachlewis/mywork/cmswork/apr28/MyFunction/src/MyFunction/lambda/Amazon.Lambda.Serialization.SystemTextJson.dll
